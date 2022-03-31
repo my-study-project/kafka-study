@@ -10,7 +10,8 @@ import java.util.Random;
 
 public class Producer {
     //定义主题
-    public static String topic = "duanjt_test";
+//    public static String topic = "duanjt_test";
+    public static String topic = "duanjt_test_new";
 
     public static void main(String[] args) throws InterruptedException {
         Properties p = new Properties();
